@@ -1,3 +1,3 @@
 # EntrevistaPlayBusiness
 
-# EL EJERCICIO DE PINTAREST NO ESTA HECHO POR MI PERSONA
+# El codigo implementado en el ejercicio de Pintarest está basado en el codigo de un tercero (@mackenziechild)
