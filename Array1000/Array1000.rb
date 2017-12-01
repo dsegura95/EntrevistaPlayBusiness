@@ -11,5 +11,6 @@ def array1000(array)
 				valor2 = array[i]
 			end
 			count += 1
+			i += 1
 		end
 	end
